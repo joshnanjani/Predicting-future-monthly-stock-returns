@@ -8,4 +8,4 @@
 •	Currently, working more on modeling and exploring other derived variables
 
 •	Please see the project outline and a detailed list of all derived variables at Project Report and short notes (WIP).docx\
-•	For code, please see 1.Preparing fundamental data & 2.Monthly stock data\
+•	For code, please see 1.Preparing fundamental data & 2.Monthly stock data
