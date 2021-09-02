@@ -7,5 +7,5 @@
 •	Explored the effects of scaling data. Found that scaling the predictors decreases the RMSE by 1.2%\
 •	Currently, working more on modeling and exploring other derived variables
 
-•	Please see the project outline and a detailed list of all derived variables at Project Report and short notes (WIP).docx\
+•	Please see the project outline and a detailed list of all derived variables in Project Report and short notes (WIP).docx\
 •	For code, please see 1.Preparing fundamental data & 2.Monthly stock data
