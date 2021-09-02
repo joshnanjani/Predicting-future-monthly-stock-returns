@@ -1,4 +1,4 @@
-# Predicted future monthly return
+# Predicting future monthly stock return
 
 •	Obtained Price and volume & financial results data from Wharton Research Data Services database (WRDS)\
 •	Wrangled price, volume data extensively to create features such as Last_6M change, Volume relativity\
