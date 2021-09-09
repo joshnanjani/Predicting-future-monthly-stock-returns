@@ -9,3 +9,4 @@
 
 •	Please see the project outline and a detailed list of all derived variables in Project Report and short notes (WIP).docx\
 •	For code, please see 1.Preparing fundamental data & 2.Monthly stock data
+ 
